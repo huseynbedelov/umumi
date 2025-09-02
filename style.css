@@ -1,0 +1,184 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#p{
+    width: 90vw;
+}
+
+
+#l{
+    width: 45vw;
+    float: right;
+}
+
+
+h3{
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 100px;
+    margin-left: 55px;
+}
+
+
+h1{
+    margin-left: 55px;
+}
+
+
+p{
+    width: 25vw;
+    margin-left: 55px;
+}
+
+
+.a{
+    background-color: #FF6464;
+    color: white;
+    padding: 10px;
+    border-style: none;
+    border-radius: 8px;
+    margin-left: 55px;
+}
+
+
+.b{
+    color: black;
+    background-color: white;
+    margin-left: 3px;
+    padding: 8px;
+    border-color: black;
+    border-radius: 6px;
+}
+
+
+
+.container1{
+    display: flex;
+}
+
+
+.item1{
+    background-color: rgb(249, 244, 234);
+    width: 33vw;
+    padding: 10px;
+    margin-left: 8px;
+    margin-top: 25%;
+}
+
+
+.item2{
+    background-color: rgb(249, 244, 234);
+    width: 33vw;
+    padding: 10px;
+    margin-left: 8px;
+    margin-top: 25%;
+}
+
+
+.item3{
+    background-color: rgb(249, 244, 234);
+    width: 33vw;
+    padding: 10px;
+    margin-left: 8px;
+    margin-top: 25%;
+}
+
+
+.container2{
+    display: flex;
+}
+
+
+.item4{
+    background-color: rgb(249, 244, 234);
+    width: 33vw;
+    padding: 10px;
+    margin-left: 8px;
+    margin-top: 15px;
+}
+
+
+.item5{
+    background-color: rgb(249, 244, 234);
+    width: 33vw;
+    padding: 10px;
+    margin-left: 8px;
+    margin-top: 15px;
+}
+
+
+.item6{
+    background-color: rgb(249, 244, 234);
+    width: 33vw;
+    padding: 10px;
+    margin-left: 8px;
+    margin-top: 15px;
+}
+
+
+.c{
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+    padding: 10px;
+    font-size: 20px;
+    width: 50vw;
+    margin-left: 25%;
+}
+
+
+#juan{
+    margin-left: 29%;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 100px;
+    width: 40vw;
+}
+
+
+#juju{
+    margin-left: 29%;
+    margin-bottom: 50px;
+    margin-top: 30px;
+    padding: 10px;
+    border-radius: 10px;
+    width: 40VW;
+}
+
+
+#we{
+    margin-left: 30%;
+    width: 50%;
+}
+
+
+#mensaje{
+    margin-left: 29%;
+    padding: 55px;
+    border-radius: 10px;
+    margin-top: 10px;
+    width: 40vw;
+    margin-bottom: 50px;
+}
+
+
+.son{
+    background-color: rgb(241, 92, 92);
+    color: white;
+    padding: 10px;
+    border-style: none;
+    width: 40vw;
+    margin-bottom: 30px;
+    margin-left: 29%;
+    cursor: pointer;
+}
+
+
+#fs p{
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
